@@ -6,10 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anas-alluqmani-617208304">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/7jap">
-    <img src="https://img.shields.io/badge/GitHub-7jap-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -33,9 +30,11 @@ A personal SIEM platform for centralized security event collection, monitoring, 
 
 ### Certifications
 
-* CompTIA Security+
-* eJPT
-* ISC2 Certified in Cybersecurity
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=compTIA&logoColor=white">
+  <img src="https://img.shields.io/badge/INE-eJPT-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue?style=flat-square">
+</p>
 
 ### GitHub Stats
 
