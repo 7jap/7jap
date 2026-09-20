@@ -22,8 +22,6 @@ Cybersecurity student interested in security, systems, and practical projects.
   <img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github,windows,sqlite" />
 </p>
 
-tform for centralized security event collection, monitoring, alert management, and AI-assisted analysis.
-
 ### Certifications
 
 <p>
